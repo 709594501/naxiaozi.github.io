@@ -20,6 +20,9 @@
 
 ## 问题交流
 
+
+![image](https://user-images.githubusercontent.com/30765850/177068039-f0d43ecc-6a1e-4e08-8572-e8a8b82a1fcd.png)
+
 ![](https://github.com/fuzhengwei/small-spring/blob/main/docs/assets/img/bugstack-md.png?raw=true)
 
 <br/>
